@@ -76,6 +76,8 @@ __PACKAGE__->meta->make_immutable;
 
 =head1 DESCRIPTION
 
+EXPERIMENTAL.
+
 This plugin adds the following files:
 
   xt/release/prove-deps.t
